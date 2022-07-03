@@ -1,0 +1,37 @@
+h1{ color: rgb(251, 25, 5);
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    background-color: aquamarine;
+    
+    padding: 5px;
+    border: 5px solid orchid;
+    margin: 10px;
+}
+
+#para{
+    text-align: justify;
+    color: oldlace;
+    display: block;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: aqua;
+    width: 60%;
+    border: 5px solid salmon;
+    border-radius: 30px;
+    font-weight: 700;
+}
+
+#Image_1{
+    height: 60%;
+    width: 60%;
+    border: 20px solid royalblue;
+    border-style: groove;
+    border-radius: 20px;
+}
+
+#Anchor{
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}
